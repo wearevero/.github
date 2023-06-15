@@ -1,3 +1,7 @@
-<p align="center">
-  <img alt="Veronique's banner" src="https://pbs.twimg.com/profile_banners/1089815197357768710/1673749702/1500x500"/>
-</p>
+# 𝖜𝖊 𝖆𝖗𝖊 𝖛𝖊𝖗𝖔
+
+![Veronique banner](../assets/banner1.png)
+
+<center><b>We Are Vero is a part of Veronique, Inc.</b></center>
+<br>
+We just trying to carving out a vanguard position by combining intensive technology with formal design expertise — we are making the internet everything it can be, cheers 🍻.
