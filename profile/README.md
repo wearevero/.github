@@ -1,6 +1,6 @@
 # 𝖜𝖊 𝖆𝖗𝖊 𝖛𝖊𝖗𝖔
 
-![Veronique banner](../assets/banner1.png)
+![Veronique banner](./../assets/banner1.png)
 
 <center><b>We Are Vero is a part of Veronique, Inc.</b></center>
 <br>
