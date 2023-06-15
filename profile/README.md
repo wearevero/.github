@@ -1,6 +1,6 @@
 # 𝖜𝖊 𝖆𝖗𝖊 𝖛𝖊𝖗𝖔
 
-![Veronique banner](../assets/banner1.png)
+![Veronique banner](https://github.com/wearevero/.github/blob/main/assets/banner1.png)
 
 <b>We Are Vero is a part of Veronique, Inc.</b>
 <br><br>
